@@ -30,7 +30,7 @@
 .search_box > input{
   border:none;
   border-radius: 5px;
-  width: 1000px;
+  width: 500px;
   /* outline-width: 0; */
 }
 .nav_right{
